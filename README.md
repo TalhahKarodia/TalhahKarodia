@@ -14,7 +14,7 @@ Python • Java • JavaScript • C++ • C#
 React • Angular • Node.js • Java Spring • Git/GitHub • Figma  
 
 **Databases:**  
-SQL • NoSQL • Database Design & Optimization  
+SQL • NoSQL 
 
 **Cloud & DevOps:**  
 Microsoft Azure • CI/CD • Agile & Waterfall Methodologies
