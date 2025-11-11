@@ -26,21 +26,21 @@ Microsoft Azure • CI/CD • Agile & Waterfall Methodologies
 ### **🧠 AI-Powered CV Scanner (2025)**
 A recruitment platform using modern NLP and AI models to extract technologies, soft skills, and suitability indicators from CVs.  
 **Tech:** React, Java Spring, Python, Azure  
-🔗 *Coming soon to GitHub*
+
 
 ---
 
 ### **🗄️ DeeBee — Custom NoSQL Database (2025)**
 A fast, lightweight NoSQL database accessible through a CLI, web client, and JavaScript client library.  
 **Tech:** HTML, CSS, JavaScript, C++, PHP, SQL  
-🔗 *Repository available soon*
+
 
 ---
 
 ### **🎬 Streaming Service Database System (2024)**
 A full-stack application with a relational database, GUI access, user interactions, and social features such as ratings and friends.  
 **Tech:** HTML, CSS, JavaScript, C++, Node.js  
-🔗 [View Project](https://github.com/TalhahKarodia) *(placeholder)*
+
 
 ---
 
