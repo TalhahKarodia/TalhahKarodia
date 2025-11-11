@@ -1,55 +1,72 @@
-## Hi there 👋
+# Hi, I'm Talhah Karodia 👋  
+### Final-Year Computer Science Student | AI & Software Engineering Enthusiast
 
-I'm Talhah Karodia, a passionate developer and lifelong learner.
-
-### 📄 Curriculum Vitae
-
-You can view or download my CV here:  
-👉 [View My CV](https://drive.google.com/file/d/1tIhF7BFJS7TmAz1Y-M_5YwT5UAcBh5Or/view?usp=sharing)
+I'm a Computer Science student at the University of Pretoria with a strong passion for **AI**, **cybersecurity**, and **full-stack software engineering**. I enjoy designing efficient systems, solving real-world problems, and building technology that genuinely makes a difference.
 
 ---
 
-### 🎯 Critical Skills
+## 🔧 Tech Stack
 
-- **Programming Languages**: Proficient in Python, JavaScript, Java, and C++
-- **Web Development**: Full-stack development with React, Node.js, and modern frameworks
-- **Database Management**: Experience with SQL and NoSQL databases
-- **Version Control**: Git and GitHub for collaborative development
-- **Problem Solving**: Strong analytical and algorithmic thinking
-- **Software Design**: Object-oriented programming and design patterns
-- **Cloud Technologies**: Familiar with cloud platforms and deployment strategies
+**Languages:**  
+Python • Java • JavaScript • C++ • C#
 
----
+**Frameworks & Tools:**  
+React • Angular • Node.js • Java Spring • Git/GitHub • Figma  
 
-### 🎨 Hobbies
+**Databases:**  
+SQL • NoSQL • Database Design & Optimization  
 
-- 💻 **Coding Personal Projects**: Building applications that solve real-world problems  
-- 📚 **Reading**: Tech blogs, documentation, and programming books  
-- 🎮 **Gaming**: Strategy and puzzle games that challenge the mind  
-- ✍️ **Writing**: Technical articles and documentation  
-- 🏃 **Fitness**: Staying active and maintaining work-life balance  
+**Cloud & DevOps:**  
+Microsoft Azure • CI/CD • Agile & Waterfall Methodologies
 
 ---
 
-### 🌟 Interests
+## 🚀 Featured Projects
 
-- **Open Source**: Contributing to open-source projects and collaborative development  
-- **Artificial Intelligence**: Machine learning and AI applications  
-- **Web Technologies**: Keeping up with the latest web development trends  
-- **Software Architecture**: Designing scalable and maintainable systems  
-- **Developer Tools**: Exploring tools that improve productivity and code quality  
-- **Technology Innovation**: Following emerging technologies and industry trends  
+### **🧠 AI-Powered CV Scanner (2025)**
+A recruitment platform using modern NLP and AI models to extract technologies, soft skills, and suitability indicators from CVs.  
+**Tech:** React, Java Spring, Python, Azure  
+🔗 *Coming soon to GitHub*
 
 ---
 
-### 💭 Philosophy
+### **🗄️ DeeBee — Custom NoSQL Database (2025)**
+A fast, lightweight NoSQL database accessible through a CLI, web client, and JavaScript client library.  
+**Tech:** HTML, CSS, JavaScript, C++, PHP, SQL  
+🔗 *Repository available soon*
 
-> "Code is poetry written for machines to execute and humans to read."
+---
 
-I believe in:
-- **Continuous Learning**: Technology evolves rapidly, and so should we  
-- **Clean Code**: Writing code that is readable, maintainable, and elegant  
-- **Collaboration**: The best solutions come from diverse perspectives  
-- **User-Centric Design**: Technology should serve people, not the other way around  
-- **Growth Mindset**: Every challenge is an opportunity to learn and improve  
-- **Giving Back**: Contributing to the community that has helped me grow
+### **🎬 Streaming Service Database System (2024)**
+A full-stack application with a relational database, GUI access, user interactions, and social features such as ratings and friends.  
+**Tech:** HTML, CSS, JavaScript, C++, Node.js  
+🔗 [View Project](https://github.com/TalhahKarodia) *(placeholder)*
+
+---
+
+## 🏆 Achievements
+- ✅ Microsoft Technology Associate (MTA): Software Development Fundamentals  
+- ✅ Developed multiple full-stack systems with end-to-end database integration  
+- ✅ Experience implementing AI algorithms & NLP workflows
+
+---
+
+## 🌱 Currently Learning
+- Machine Learning & Applied AI  
+- Secure Coding & Cybersecurity Fundamentals  
+- Scalable Web Architecture and Cloud Deployment  
+
+---
+
+## 🎯 Interests
+AI • Cybersecurity • Web Technologies • Developer Tools • Open Source • Software Architecture
+
+---
+
+## 📫 Connect With Me  
+📩 **Email:** talhahkarodia@gmail.com  
+🐙 **GitHub:** [github.com/TalhahKarodia](https://github.com/TalhahKarodia)
+
+---
+
+> *“Technology should be simple, scalable, and meaningful.”*
