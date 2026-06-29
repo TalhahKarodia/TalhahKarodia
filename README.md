@@ -1,6 +1,6 @@
 # Talhah Karodia
 
-**Final-Year Computer Science Student | Software Engineer | AI Enthusiast**
+Honours Computer Science Student | Software Engineer
 
 I am a Computer Science student at the University of Pretoria with a strong background in full-stack software development, artificial intelligence, and cybersecurity. I specialize in designing scalable systems, implementing machine learning solutions, and delivering end-to-end software products. My work combines technical rigor with a focus on solving real-world problems through modern technology.
 
@@ -98,6 +98,4 @@ Software Architecture • Cloud Computing • Machine Learning • Cybersecurity
 **Email:** [talhahkarodia@gmail.com](mailto:talhahkarodia@gmail.com)  
 **GitHub:** [github.com/TalhahKarodia](https://github.com/TalhahKarodia)
 
----
 
-*Building intelligent, scalable, and secure software solutions.*
