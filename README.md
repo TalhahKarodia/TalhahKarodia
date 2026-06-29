@@ -1,72 +1,103 @@
-# Hi, I'm Talhah Karodia 👋  
-### Final-Year Computer Science Student | AI & Software Engineering Enthusiast
+# Talhah Karodia
 
-I'm a Computer Science student at the University of Pretoria with a strong passion for **AI**, **cybersecurity**, and **full-stack software engineering**. I enjoy designing efficient systems, solving real-world problems, and building technology that genuinely makes a difference.
+**Final-Year Computer Science Student | Software Engineer | AI Enthusiast**
+
+I am a Computer Science student at the University of Pretoria with a strong background in full-stack software development, artificial intelligence, and cybersecurity. I specialize in designing scalable systems, implementing machine learning solutions, and delivering end-to-end software products. My work combines technical rigor with a focus on solving real-world problems through modern technology.
 
 ---
 
-## 🔧 Tech Stack
+## 📋 Technical Expertise
 
-**Languages:**  
+**Programming Languages**  
 Python • Java • JavaScript • C++ • C#
 
-**Frameworks & Tools:**  
-React • Angular • Node.js • Java Spring • Git/GitHub • Figma  
+**Frontend & UI**  
+React • Angular • HTML • CSS • Figma
 
-**Databases:**  
-SQL • NoSQL 
+**Backend & Frameworks**  
+Node.js • Java Spring • REST APIs
 
-**Cloud & DevOps:**  
-Microsoft Azure • CI/CD • Agile & Waterfall Methodologies
+**Database Technologies**  
+SQL • NoSQL • Database Design & Optimization
 
----
+**Cloud & DevOps**  
+Microsoft Azure • CI/CD Pipelines • Agile Methodologies
 
-## 🚀 Featured Projects
-
-### **🧠 AI-Powered CV Scanner (2025)**
-A recruitment platform using modern NLP and AI models to extract technologies, soft skills, and suitability indicators from CVs.  
-**Tech:** React, Java Spring, Python, Azure  
-
+**Additional Skills**  
+Git/GitHub • System Design • Machine Learning • NLP
 
 ---
 
-### **🗄️ DeeBee — Custom NoSQL Database (2025)**
-A fast, lightweight NoSQL database accessible through a CLI, web client, and JavaScript client library.  
-**Tech:** HTML, CSS, JavaScript, C++, PHP, SQL  
+## 💼 Featured Projects
 
+### AI-Powered CV Scanner
+**2025** | React, Java Spring, Python, Microsoft Azure
 
----
+A recruitment intelligence platform leveraging NLP and machine learning to automatically extract technical competencies, soft skills, and suitability metrics from CVs. Designed to streamline talent acquisition workflows and improve hiring efficiency.
 
-### **🎬 Streaming Service Database System (2024)**
-A full-stack application with a relational database, GUI access, user interactions, and social features such as ratings and friends.  
-**Tech:** HTML, CSS, JavaScript, C++, Node.js  
-
-
----
-
-## 🏆 Achievements
-- ✅ Microsoft Technology Associate (MTA): Software Development Fundamentals  
-- ✅ Developed multiple full-stack systems with end-to-end database integration  
-- ✅ Experience implementing AI algorithms & NLP workflows
+**Key Contributions:**
+- Implemented NLP pipelines for CV parsing and skill extraction
+- Built responsive React frontend with real-time processing feedback
+- Developed Spring-based API for scalable candidate analysis
+- Integrated Azure cloud services for model deployment
 
 ---
 
-## 🌱 Currently Learning
-- Machine Learning & Applied AI  
-- Secure Coding & Cybersecurity Fundamentals  
-- Scalable Web Architecture and Cloud Deployment  
+### DeeBee — Custom NoSQL Database
+**2025** | JavaScript, C++, PHP, HTML/CSS
+
+A lightweight, high-performance NoSQL database system with multiple client interfaces including CLI, web dashboard, and JavaScript SDK. Demonstrates deep understanding of database architecture, query optimization, and multi-platform integration.
+
+**Key Contributions:**
+- Designed and implemented core database engine in C++
+- Developed web client with interactive query builder
+- Created JavaScript client library for seamless integration
+- Optimized query performance and data retrieval mechanisms
 
 ---
 
-## 🎯 Interests
-AI • Cybersecurity • Web Technologies • Developer Tools • Open Source • Software Architecture
+### Streaming Service Database System
+**2024** | JavaScript, C++, Node.js, HTML/CSS
+
+A comprehensive full-stack application featuring a relational database backend with GUI-based access, user authentication, and social features including ratings and friend networks. Demonstrates proficiency in end-to-end system architecture.
+
+**Key Contributions:**
+- Architected relational database schema with normalization
+- Implemented backend API using Node.js for scalability
+- Built interactive frontend for content browsing and recommendations
+- Integrated social features and user engagement metrics
 
 ---
 
-## 📫 Connect With Me  
-📩 **Email:** talhahkarodia@gmail.com  
-🐙 **GitHub:** [github.com/TalhahKarodia](https://github.com/TalhahKarodia)
+## 🎓 Certifications & Achievements
+
+- **Microsoft Technology Associate (MTA):** Software Development Fundamentals
+- **Full-Stack Development:** Multiple production-ready applications delivered
+- **AI & Machine Learning:** Implemented NLP algorithms and machine learning workflows
+- **Database Architecture:** Designed and optimized complex relational and NoSQL systems
 
 ---
 
-> *“Technology should be simple, scalable, and meaningful.”*
+## 🎯 Professional Interests
+
+Software Architecture • Cloud Computing • Machine Learning • Cybersecurity • Database Systems • Developer Tools • Open Source Contribution
+
+---
+
+## 📚 Current Focus
+
+- Advanced Machine Learning & Applied AI Systems
+- Secure Coding & Cybersecurity Best Practices
+- Scalable Web Architecture & Distributed Systems
+- Cloud-Native Application Development
+
+---
+
+## 🔗 Connect
+
+**Email:** [talhahkarodia@gmail.com](mailto:talhahkarodia@gmail.com)  
+**GitHub:** [github.com/TalhahKarodia](https://github.com/TalhahKarodia)
+
+---
+
+*Building intelligent, scalable, and secure software solutions.*
